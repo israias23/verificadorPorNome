@@ -1,0 +1,49 @@
+body {
+    background: rgb(107, 142, 236);
+    font: normal 15pt Arial;
+    text-align: center;
+}
+
+header {
+    color: #01051aea;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-family: italic;
+}
+
+.button {
+    padding: 10px;
+    color: antiquewhite;
+    background-color: #5b5bff;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 7px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.171);
+    font-weight: 600;
+    font-family: normal, Arial, sans-serif;
+}
+
+.button:hover {
+    background-color: #4040fd;
+}
+
+#nomeUser {
+    padding: 7px;
+    color: #5947ff;
+    border: solid black 1px;
+    border-radius: 10px;
+}
